@@ -46,3 +46,4 @@ Contributions to ROCK N SIC are welcome! If you have any suggestions, bug fixes,
 - Author [Nwajei Edgar].
 - Tutorial from whatsdev
 - Special thanks to the open-source community for providing helpful resources.
+- css background idea by Mohammad Abdul Mohaiman @mohaiman
