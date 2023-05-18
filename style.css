@@ -44,17 +44,17 @@ margin-left: 10px;
     justify-content: space-evenly;
     font-size: 13px;
     margin-bottom: 60px;
-    font-family: cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #playerscore{
-font-family: cursive;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
 }
 
 #computerscore{
     font-size: 20px;
-    font-family: cursive;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 
@@ -71,7 +71,7 @@ font-family: cursive;
 
 .action-message{
 font-size: 20px;
-font-family: cursive;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-weight: bold;
 
 }
