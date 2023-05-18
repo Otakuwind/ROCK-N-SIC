@@ -29,15 +29,14 @@ result_div.innerHTML = person + " beats" + " ,"+ computer + ". YOU WIN!:";
 }
 
 function lose ( ){
-computer ++;
+computer +1;
 playerscore_span.innerHTML = player;
 computer_span.innerHTML = computer++ ;
 result_div.innerHTML = " YOU LOSE!";
 }
 
 function draw(){
-playerscore_span.innerHTML = player;
-computer_span.innerHTML = computer ;
+
 result_div.innerHTML = " DRAW!";
 }
 
