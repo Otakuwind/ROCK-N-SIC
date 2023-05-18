@@ -44,8 +44,24 @@ margin-left: 10px;
     justify-content: space-evenly;
     font-size: 13px;
     margin-bottom: 60px;
+    font-family: cursive;
 }
 
+#playerscore{
+font-family: cursive;
+    font-size: 20px;
+}
+
+#computerscore{
+    font-size: 20px;
+    font-family: cursive;
+}
+
+
+
+.player{
+     margin-left: 9px;
+}
 .computer{
     margin-left: 30px;
 }
@@ -55,6 +71,8 @@ margin-left: 10px;
 
 .action-message{
 font-size: 20px;
+font-family: cursive;
+font-weight: bold;
 
 }
 .options{
@@ -70,7 +88,7 @@ font-size: 20px;
 
     
     .rock{
-        margin-left: 5px;
+        margin-left: 2px;
         border-radius: 50%;
         border: none;
         padding: 30px;
